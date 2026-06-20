@@ -12,6 +12,7 @@ Este índice reúne una selección curada de proyectos académicos. Cada reposit
 | [Truco Online](https://github.com/FedePucci1/truco-online) | Sistemas distribuidos y juego multijugador | Godot, GDScript, ENet, RPC | En preparación |
 | [Retail Database](https://github.com/FedePucci1/retail-database-sqlserver) | Ingeniería de bases de datos | SQL Server, T-SQL | En preparación |
 | [Unix IPC Lab](https://github.com/FedePucci1/unix-ipc-lab) | Sistemas operativos | C, C++, POSIX, sockets, procesos e IPC | En preparación |
+| [Student Management Desktop](https://github.com/FedePucci1/student-management-desktop) | Aplicación de escritorio y persistencia | Java 21, Swing, JDBC, H2, Maven | Funcional |
 
 ## Criterios de publicación
 
@@ -24,4 +25,3 @@ Este índice reúne una selección curada de proyectos académicos. Cada reposit
 ## Contacto
 
 - GitHub: [@FedePucci1](https://github.com/FedePucci1)
-
