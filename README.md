@@ -12,27 +12,38 @@ This index distinguishes published repositories from projects still being prepar
 | [NutriLens](https://github.com/FedePucci1/NutriLens) | Academic team project: food label analysis; my work focuses on the mobile client and backend integration | Next.js, TypeScript, React Native/Expo, Prisma, Vitest, Jest |
 | [Retail Database](https://github.com/FedePucci1/retail-database-sqlserver) | Academic team project: relational modeling, stored procedures, imports, reports and data protection | SQL Server, T-SQL |
 | [Student Management Desktop](https://github.com/FedePucci1/student-management-desktop) | Student CRUD, validation, search, soft deletion and embedded persistence | Java 25, Swing, JDBC, H2, Maven, JUnit 5 |
+| [L1_aho Compiler](https://github.com/FedePucci1/l1-aho-compiler) | Academic team compiler: semantic analysis, intermediate code, assembly generation and 210 tests | Java, JFlex, Java CUP, Maven, JUnit |
+| [Banking Product Propensity](https://github.com/FedePucci1/bank-product-propensity) | Individual academic modeling: feature engineering, classifier comparison and validation | Python, pandas, scikit-learn, XGBoost |
+| [Truco Online](https://github.com/FedePucci1/truco-online) | Team-built client-server multiplayer, rooms, RPC and game rules | Godot, GDScript, ENet |
+| [Unix IPC Lab](https://github.com/FedePucci1/unix-ipc-lab) | Team operating systems labs: processes, threads, semaphores, FIFO, shared memory and TCP | C, C++, Linux/POSIX |
+| [Baby Vigía](https://github.com/FedePucci1/baby-vigia) | Academic IoT prototype: retained activity sources and hardware simulation | Android, Java, MQTT, ESP32 |
+| [Intelitter](https://github.com/FedePucci1/intelitter) | Academic smart litter box: sensors, state machine and mobile control | Arduino, C/C++, Android, Bluetooth |
+| [Heroes and Villains](https://github.com/FedePucci1/heroes-y-villanos) | Team OOP project: characters, leagues, battles and file persistence | Java, Maven, collections |
 
 Each repository documents its setup and validation status.
 
-## Additional academic projects — publication in preparation
+## Validation and scope
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| L1_aho Compiler | Lexical, syntactic and semantic analysis, intermediate code and assembly generation | Java, JFlex, Java CUP, Maven, JUnit |
-| Banking Product Propensity | Classification, feature engineering, model comparison and validation | Python, pandas, scikit-learn, XGBoost |
-| Truco Online | Client-server multiplayer, rooms, RPC and game rules | Godot, GDScript, ENet |
-| Unix IPC Lab | Processes, threads, semaphores, FIFO, shared memory and TCP sockets | C, C++, Linux/POSIX |
-| Baby Vigía | Sound and movement monitoring and control | Android, Java, MQTT, sensors |
-| Intelitter | Smart litter box with sensors, state machine and Android control | Arduino, C/C++, Java, Bluetooth |
-| Heroes and Villains | Object-oriented modeling, characters, leagues, battles and persistence | Java, collections, file I/O |
+| Project | Publication review |
+| --- | --- |
+| Voice Clinical Notes | Build and demo save/edit/history flow checked using synthetic content; real provider calls not exercised. |
+| NutriLens | Local build and 1,337 unit tests passed. GitHub CI also checks mobile, database integration and browser E2E. |
+| Retail Database | Structure, attribution and schema diagram reviewed; full clean-instance SQL Server execution remains to be validated. |
+| Student Management Desktop | Build, seven tests and executable JAR check passed; preview uses synthetic data. |
+| L1_aho Compiler | Build and 210 tests passed; optional DOS runtime execution was not repeated. |
+| Banking Product Propensity | Two notebooks published without outputs/datasets; 39 code cells syntax-checked, training not rerun. |
+| Truco Online | Source, setup and contributions documented; multiplayer verification remains manual. |
+| Unix IPC Lab | All five labs compiled on Ubuntu/WSL; warnings retained, full interactive behavior not revalidated. |
+| Baby Vigía | Partial Android activity sources and hardware simulation; complete Android resources are not present in the retained archive. |
+| Intelitter | Android project and Arduino sketch published; hardware/Bluetooth operation not revalidated. |
+| Heroes and Villains | Maven build and packaged console startup/exit checked; no automated functional suite claimed. |
 
 ## Scripting
 
 - [BashScripting](https://github.com/FedePucci1/BashScripting)
 - [PowerShellScripting](https://github.com/FedePucci1/PowerShellScripting)
 
-These earlier repositories are also part of my work; their usage documentation is being prepared.
+Both repositories include usage examples and parameter documentation. Bash syntax and PowerShell parsing were checked; the long-running watcher workflows were not exercised.
 
 ## About my experience
 
