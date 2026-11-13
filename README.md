@@ -51,6 +51,7 @@ Smaller course exercises are grouped separately from the projects above. Each co
 
 | Collection | Contents | Validation scope |
 | --- | --- | --- |
+| [SQL exercises](https://github.com/FedePucci1/unlam-sql-exercises) | 17 queries across supply and school models: joins, subqueries, anti-joins and `HAVING` | Synthetic fixtures, explicit expected CSV rows and verification on SQLite and SQL Server. |
 | [Java algorithms and OOP](https://github.com/FedePucci1/unlam-algorithms) | Círculos, Témperas, Punto2D, Tiros al Arco and Mesadas; Hotel and Luchadores drafts | Five console demos compiled and executed; the retained JUnit test passed. |
 | [C/C++ fundamentals](https://github.com/FedePucci1/unlam-programming-fundamentals) | Strings, matrices, record updates, linked lists and a time-of-day class | Two C executables and two solution objects compiled on Windows and Linux; clock compiled on Windows. |
 | [Prolog](https://github.com/FedePucci1/unlam-prolog) | Travel budgets, grade reports and maximum selection | CI loads all three files and checks sample queries. |
