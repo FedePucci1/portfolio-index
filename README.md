@@ -2,7 +2,7 @@
 
 Full-stack developer at Summant Technologies, working across PNet business logic, SQL and JSP web interfaces for multiple clients. Advanced Informatics Engineering student at Universidad Nacional de La Matanza, Argentina.
 
-This index distinguishes published repositories from projects still being prepared. Team projects preserve their original attribution and document my contributions.
+This index groups published software projects, scripting work and smaller academic collections. Team projects preserve their original attribution and document my contributions.
 
 ## Published projects
 
@@ -44,6 +44,17 @@ Each repository documents its setup and validation status.
 - [PowerShellScripting](https://github.com/FedePucci1/PowerShellScripting)
 
 Both repositories include usage examples and parameter documentation. Bash syntax and PowerShell parsing were checked; the long-running watcher workflows were not exercised.
+
+## Academic exercises
+
+Smaller course exercises are grouped separately from the projects above. Each collection records its sources and distinguishes runnable examples from historical drafts.
+
+| Collection | Contents | Validation scope |
+| --- | --- | --- |
+| [Java algorithms and OOP](https://github.com/FedePucci1/unlam-algorithms) | Círculos, Témperas, Punto2D, Tiros al Arco and Mesadas; Hotel and Luchadores drafts | Five console demos compiled and executed; the retained JUnit test passed. |
+| [C/C++ fundamentals](https://github.com/FedePucci1/unlam-programming-fundamentals) | Strings, matrices, record updates, linked lists and a time-of-day class | Two C executables and two solution objects compiled on Windows and Linux; clock compiled on Windows. |
+| [Prolog](https://github.com/FedePucci1/unlam-prolog) | Travel budgets, grade reports and maximum selection | CI loads all three files and checks sample queries. |
+| [Systems analysis](https://github.com/FedePucci1/unlam-systems-analysis) | Air Patagonia, Cadena Hotelera and Centro Médico | Six selected diagram exports reviewed; modeling exercises with no application runtime. |
 
 ## About my experience
 
